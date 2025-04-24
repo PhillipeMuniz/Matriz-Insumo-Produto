@@ -1,3 +1,55 @@
 # Matriz-Insumo-Produto
 
-Este estudo analisou o impacto dos investimentos em Ciência, Tecnologia e Inovação (CT&I) em todos os setores presentes na matriz insumo-produto (MIP) de 2017. Utilizando a MIP elaborada pelo NEREUS, e dados de dispêndios com Pesquisa e Desenvolvimento (P&D), extraídos da PINTEC e da ASTI, referentes aos anos de 2017 e 2013, respectivamente, foi realizado uma compatibilização entre a MIP e os dispêndios com P&D. Dessa forma, foi possível quantificar a demanda final setorial por CT&I e a formação de Capital de Conhecimento (Capital Knowledge). Sendo o Capital Knowledge um recurso intangível resultante dos investimentos em P&D, e desempenhando um papel fundamental na inovação e produtividade. Foram calculados os multiplicadores de Produção, Emprego, Renda e Capital Knowledge para todos os setores da economia presentes na MIP. Além disso, foi realizada uma análise de impacto sistêmico para simular os efeitos de aumentos de 1% e 2,7% nos investimentos em P&D, sendo este último valor correspondente à média dos países da OCDE, sobre variáveis como Emprego, Renda e Capital Conhecimento, tanto nos setores-chave quanto na economia como um todo. Os resultados evidenciaram que investir em P&D para todos os setores não trouxe resultados tão significativos comparado com o investimento apenas nos 13 setores considerados setores-chave, onde um possível aumento nos investimentos em P&D demonstrou grande impacto no curto prazo. No entanto, o estudo reforça que é necessário pensar em soluções de longo prazo, dado que o Brasil ainda tem um potencial de melhoria, principalmente em termos de alinhamento com os padrões da OCDE de investimento em P&D, essenciais para a construção de uma economia mais dinâmica e competitiva.
+📊 Impacto dos Investimentos em CT&I na Economia Brasileira
+Este estudo analisa o impacto dos investimentos em Ciência, Tecnologia e Inovação (CT&I) sobre todos os setores presentes na Matriz Insumo-Produto (MIP) brasileira de 2017.
+
+🧩 Metodologia
+Utilizamos a MIP de 2017, elaborada pelo NEREUS, e dados de dispêndios com Pesquisa e Desenvolvimento (P&D) provenientes de duas fontes:
+
+PINTEC (2017) – Pesquisa de Inovação do IBGE
+
+ASTI (2013) – Agricultural Science and Technology Indicators
+
+Foi realizada uma compatibilização entre a MIP e os dados de P&D, permitindo quantificar:
+
+A demanda final setorial por CT&I
+
+A formação de Capital de Conhecimento (Capital Knowledge) — um recurso intangível resultante dos investimentos em P&D, essencial para impulsionar a inovação e a produtividade.
+
+📈 Multiplicadores Calculados
+Foram estimados multiplicadores para os 65 setores econômicos presentes na MIP:
+
+🔹 Produção
+
+🔹 Emprego
+
+🔹 Renda
+
+🔹 Capital Knowledge
+
+🔍 Análise de Impacto Sistêmico
+Simulamos o impacto de aumentos de 1% e 2,7% nos investimentos em P&D — sendo este último valor equivalente à média de investimento em P&D dos países da OCDE — sobre as seguintes variáveis:
+
+Emprego
+
+Renda
+
+Capital de Conhecimento
+
+A análise foi realizada tanto para todos os setores quanto para os 13 setores-chave da economia.
+
+🧠 Principais Resultados
+Investir em P&D em todos os setores gerou impactos modestos.
+
+Focar em setores-chave proporcionou efeitos mais expressivos no curto prazo.
+
+O estudo reforça a importância de estratégias de longo prazo, dado o baixo alinhamento do Brasil com os padrões da OCDE em termos de investimentos em P&D.
+
+🌎 Conclusão
+Para construir uma economia mais dinâmica, inovadora e competitiva, o Brasil precisa:
+
+Ampliar os investimentos em P&D
+
+Priorizar setores estratégicos com maior potencial de multiplicação econômica
+
+Alinhar suas políticas públicas aos padrões internacionais
